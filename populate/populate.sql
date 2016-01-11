@@ -4,7 +4,6 @@
 -- Example table population scripts for PostgreSQL.
 ---------------------------------------------------
 
-
 ---------------------------
 -- Populate Customers table
 ---------------------------
